@@ -1,1 +1,1 @@
- https://anastasiyaparf.github.io/rsschool-cv/cv
+ https://anastasiyaparf.github.io/rsschool-cv/index
